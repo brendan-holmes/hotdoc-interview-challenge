@@ -1,0 +1,15 @@
+{
+  "name": "hotdoc-challenge",
+  "version": "1.0.0",
+  "description": "Part 2 of HotDoc Challenge: Implement, in Node.js and SQL, code that retrieves an appointment from the HotDoc backend (you can define the interface, and implementing the backend is out of scope: stub out the backend interaction) and inserts it into the PMS' SQLite database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Holmes",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.0.0"
+  }
+}
